@@ -1,0 +1,17 @@
+theme: jekyll-theme-minimal
+
+name: Calculator
+
+description: Just simple python calculator
+
+avatar: "/icon.png"
+
+navbar-links:
+  Author: "https://bm835.space"
+  Source: "https//github.com/bm835/calculator-py"
+
+share-links-active:
+  twitter: true
+  facebook: true
+  
+google_analytics: "UA-134644574-1"
